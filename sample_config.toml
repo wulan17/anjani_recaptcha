@@ -1,0 +1,4 @@
+[recaptchav3]
+# get your key here https://www.google.com/recaptcha
+SITE_KEY = ""
+SECRET_KEY = ""
